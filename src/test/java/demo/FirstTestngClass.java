@@ -20,11 +20,14 @@ public class FirstTestngClass {
 	void show()
 	{
 		System.out.println("It is in show");
+		System.out.println("This is first Testng Program");
 	}
 	@Test
 	void display()
 	{
 		System.out.println("It is in display");
+		System.out.println("This is first Testng Program");
+
 	}
 
 }
