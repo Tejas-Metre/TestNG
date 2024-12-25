@@ -7,11 +7,14 @@ public class FirstTestngClass {
 	void method1()
 	{
 		System.out.println("it is in method1");
+				System.out.println("first method");
+
 	}
 	//@Test
 	void method2()
 	{
 		System.out.println("it is in method2");
+		System.out.println("second method");
 	}
 	@Test
 	void show()
