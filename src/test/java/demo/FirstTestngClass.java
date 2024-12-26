@@ -7,6 +7,7 @@ public class FirstTestngClass {
 	void method1()
 	{
 		System.out.println("it is in method1");
+		System.out.println("it is testng program");
 	}
 	//@Test
 	void method2()
