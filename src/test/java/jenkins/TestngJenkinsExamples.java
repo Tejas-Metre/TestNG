@@ -32,6 +32,9 @@ public class TestngJenkinsExamples {
 		TestngJenkinsExamples tc = new TestngJenkinsExamples();
 		tc.googleSrarch();
 		
+		//git code
+		System.out.println("This is jenkin code code");
+		
 	}
 	
 }
